@@ -19,3 +19,7 @@ ios/Flutter/
 .DS_Store
 .idea/
 .vscode/
+
+
+# Project specific
+API_DOCUMENTATION.md
