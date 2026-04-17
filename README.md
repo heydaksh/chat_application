@@ -50,7 +50,7 @@ The main focus of this project is **UI development and API integration**.
 
 ```bash
 git clone https://github.com/heydaksh/chat_application.git
-cd your-project-name
+cd chat_application
 flutter pub get
 flutter run
 ```
