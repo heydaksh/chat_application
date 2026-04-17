@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882335460809",
+    "project_id": "plimpzik",
+    "storage_bucket": "plimpzik.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882335460809:android:8f4ef2ce38970f2d1dcc18",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfZWRmtqqceAqT9lt4H2aHFmXqVyuqt2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
